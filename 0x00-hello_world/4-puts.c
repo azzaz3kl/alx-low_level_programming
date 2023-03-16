@@ -1,7 +1,8 @@
 #include <stdio.h>
 /*
- *This is my first program in c Programming For ALX
- *
+ *main - a function that print a string for user. Is the main function for all program.
+ *puts - a predefined function that use to print outputs for the user.
+ return (0) - means program executed successfully.
  * */
 int main(void)
 {

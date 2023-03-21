@@ -1,6 +1,6 @@
 #include "main.h"
 /*
- * main: a program to print _putchar word 
+ * main - a main function to print _putchar word 
  * _putchar: Return an alphapets characters
  * Return: 0 (Success)
  */

@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - a main function 
+ * main - a main function to print _putchar
  * _putchar: Return an alphapets characters
  * Return: 0 (Success)
  */

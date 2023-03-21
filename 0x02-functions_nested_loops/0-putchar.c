@@ -1,9 +1,9 @@
 #include "main.h"
-
 /*
- * main - a program to print putchar
- * return: 0 (Success) 
-*/
+ * main: a program to print putchar
+ * _putchar: Return an alphapets characters
+ * Return: 0 (Success)
+ */
 
 int main(void)
 {

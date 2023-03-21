@@ -2,6 +2,7 @@
 
 /**
  * _islower - a function to check character
+ * c: Recieced value.
  * Return: 1 if true. 0 if false.
  */
 

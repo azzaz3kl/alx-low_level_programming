@@ -2,7 +2,7 @@
 
 /**
  * print_to_98 - Prints numbers from input to 98, separated by a comma,
- * 		followed by a space.
+ *              followed by a space.
  * @n: The number to begin counting at.
  */
 

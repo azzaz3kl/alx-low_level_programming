@@ -3,7 +3,7 @@
 
 /**
  * count_word - A function to count the number of words in a string.
- * 
+ *
  * @s: string to evaluate.
  *
  * Return: the number of words.

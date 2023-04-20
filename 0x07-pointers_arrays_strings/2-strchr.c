@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strchr - a 	function that locates a character in a string
+ * _strchr - a function that locates a character in a string
  * @s: pointer to put thet const
  * @c: const
  * Return: Always 0

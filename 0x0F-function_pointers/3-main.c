@@ -28,12 +28,6 @@ int main(int argc, char *argv[])
 		printf("Error\n");
 		exit(99);
 	}
-    if ((op_func == '/' && n2 == 0) ||
-	    (op_func == '%' && n2 == 0))
-	{
-		printf("Error\n");
-		exit(100);
-	}
 
 	output = op_func(n1, n2);
 	printf("%d\n", output);

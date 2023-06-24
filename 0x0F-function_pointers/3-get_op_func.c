@@ -1,4 +1,5 @@
 #include "3-calc.h"
+#include <stdlib.h>
 
 /**
  * get_op_func - selecting right function to do asked ops by user
